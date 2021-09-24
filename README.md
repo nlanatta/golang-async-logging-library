@@ -1,4 +1,4 @@
-To use the test runner:
+#To use the test runner:
 
 * navigate into the ./cmd directory
 * if run with the defaults (`go run .`), the application will run in asynchronous mode and write it's output directly to the shell
